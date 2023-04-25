@@ -1,0 +1,54 @@
+.videoss
+{
+    padding: 30px;
+    text-align: center;
+    background-color: #990033;  
+}
+.card
+{
+    background-color: #990033;  
+}
+.Heading
+{
+    margin-top: 20px;
+    
+   
+    font-size: 47px;
+    color: #CCFFCC;
+
+}
+.Heading2
+{
+    margin-top: 140px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    background: linear-gradient(to bottom, #ccffff 0%, #ccccff 100%);
+    width: 100%;
+}
+
+.Heading3
+{
+    margin-top: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    background: linear-gradient(to bottom, #ccffff 0%, #ccccff 100%);
+    width: 100%;
+}
+.lines
+{
+    width: 25%;
+    
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}

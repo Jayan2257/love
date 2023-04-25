@@ -1,0 +1,30 @@
+.poemss
+{
+    text-align: center;
+    
+}
+.card-body
+{
+
+    width: 100%;
+    background-color: 	#F8F8FF;
+}
+h1{
+    padding-bottom: 10px;
+    color: orangered ;
+    text-decoration: underline;
+}
+h2{
+    color: orangered;
+    padding: 10px;
+    text-decoration: underline;
+}
+.cardd1
+{
+    background-color:  #E6E6FA; 
+}
+.likeyouu
+{
+    text-align: center;
+}
+

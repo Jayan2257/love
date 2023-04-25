@@ -1,0 +1,137 @@
+.photoss
+{
+    background-color:	#F5FFFA;
+    padding-bottom: 1%;
+    margin: auto;
+    text-align: center;
+}
+.Heading
+{
+    text-align: center;
+    padding: 50px;
+    font-size: 77px;
+    text-decoration: underline;
+    color: 	#7B68EE;
+    background: linear-gradient(to top left, #99ccff 0%, #cc99ff 100%);
+    
+}
+.Heading2
+{
+    text-align: center;
+    
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: 'Yeseva One', cursive;
+    font-size: 50px;
+    color: #DC143C;
+   margin-left: 10px ;
+   margin-right: 10px;
+    padding: 10px;
+   border-style: solid;
+   
+   
+}
+p{
+    padding: 10px;
+}
+.College
+{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.Home
+{
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.Bunks
+{
+    margin-top: 50px;
+    margin: 100px;
+}
+.VC
+{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.Birthday19
+{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.birthday
+{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+img{
+    width: 200px;
+    border-radius: 5%;
+}
+.Imge7{
+    width: 400px;
+}
+.Imge10
+{
+    width: 400px;
+}
+.Imge9
+{
+    width: 400px;
+}
+.col-12
+{
+    padding: 10px;
+}
+.natural
+{
+    width: 100%;
+    margin-bottom: 50px;
+}
+.row
+{
+    margin-bottom: 50px;
+   
+    text-align: center;
+}
+.para
+{
+    text-align: center;
+}
+.photo-1
+{
+   width:  250px;
+}
+.Birthday19
+{
+    text-align: center;
+    margin-bottom: 100px ;
+}
+.Garba
+{
+    text-align: center;
+    margin-top: 77px;
+    margin-bottom: 100px;
+}
+.Imge25
+{
+    width: 300px;
+}
+.Imge27
+{
+    width: 250px;
+}
+.Imge17
+{
+    width: 350px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 100px;
+    width: 100px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
