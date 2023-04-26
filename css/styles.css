@@ -18,7 +18,7 @@ img
 
      height: 80%;  
     background-color: #f9d5e5;
-    
+    position: relative;
 }
 .Head
 {
@@ -44,7 +44,7 @@ img
 {
     margin: auto;
     width: 75%;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 .line 
 {
