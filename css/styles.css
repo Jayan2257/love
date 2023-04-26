@@ -2,6 +2,7 @@ body
 {
 margin: 0%; 
 
+
 }
 .navbar-brand
 {
@@ -13,10 +14,11 @@ img
     width: 200px;
 }
 .front-page
-{  
-    
+{ 
+
+     height: 80%;  
     background-color: #f9d5e5;
-    position: relative;
+    
 }
 .Head
 {
