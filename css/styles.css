@@ -15,15 +15,11 @@ img
 }
 .front-page
 { 
-
-     height: 80%;  
-    background-color: #f9d5e5;
-    position: relative;
+    background-color: #f9d5e5;    
 }
 .Head
 {
-    position: relative;
-    top: 200px;
+    
     text-align: center;
     font-size: 4rem;
     font-family: 'Dancing Script', cursive;
@@ -32,13 +28,17 @@ img
 
 .para
 {
-    position:relative;
-    top: 220px;
+    
     text-align: center;
     line-height: 20px;
     font-family: 'Merriweather', serif;
     font-size: 1rem;
    
+}
+.adjust
+{
+   text-align: center;
+   padding: 50px;
 }
 .mid-page
 {
